@@ -14,3 +14,7 @@ GiftPick.co.uk is an AI‑powered gift finder that turns a few details about the
 
 [Gift Ideas for daughter](https://giftpick.co.uk/gift-ideas/for-daughter)
 
+
+© 2025 [GitHub Pages](https://nto25.github.io/giftpick/)
+
+
