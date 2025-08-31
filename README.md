@@ -1,6 +1,6 @@
 # giftpick - Find the Perfect Gift for Everyone
 
-[https://giftpick.co.uk](https://giftpick.co.uk -)
+[GiftPick](https://giftpick.co.uk)
 
 [https://giftpick.co.uk/gift-ideas/for-men](https://giftpick.co.uk/gift-ideas/for-men)
 [https://giftpick.co.uk/gift-ideas/for-women](https://giftpick.co.uk/gift-ideas/for-women)
