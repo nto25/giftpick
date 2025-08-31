@@ -1,4 +1,4 @@
-# giftpick - Find the Perfect Gift for Everyone
+# GiftPick - Find the Perfect Gift for Everyone
 
 [GiftPick](https://giftpick.co.uk)
 
